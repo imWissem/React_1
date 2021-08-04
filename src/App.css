@@ -1,0 +1,23 @@
+.login-form {
+  width: 100% ;
+  max-width: 330px; 
+  padding: auto; 
+  height: 100% ;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  margin-left: 40%;
+  margin-top: 10%;
+}
+h2{
+  color: red; 
+  text-align: center;
+}
+Input{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+Label{
+  font-size: 20px;
+}
